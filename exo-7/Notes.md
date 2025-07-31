@@ -37,7 +37,6 @@ Concernant le contenu de la base de données, celle-ci devra se nommer kennelDB 
   git config --global user.name "AlexyCatelle"
 
 
-
 ## Terminal
 
 ```
